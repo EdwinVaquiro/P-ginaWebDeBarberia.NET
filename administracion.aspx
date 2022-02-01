@@ -2,50 +2,47 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <p>
-        <asp:DetailsView ID="DetailsView1" runat="server" DataSourceID="SqlDataSource1" Height="50px" Width="125px" AllowPaging="True">
-            <Fields>
-                <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
-            </Fields>
-        </asp:DetailsView>
-<asp:SqlDataSource ID="SqlDataSource1" runat="server" ConflictDetection="CompareAllValues" ConnectionString="<%$ ConnectionStrings:barberiaConnectionString3 %>" DeleteCommand="DELETE FROM usuario WHERE Correo = ?" InsertCommand="INSERT INTO usuario (Correo, Password, Nombre1, Nombre2, Apellido1, Apellido2, Rol, Edad) VALUES (?, ?, ?, ?, ?, ?, ?, ?)" OldValuesParameterFormatString="original_{0}" ProviderName="<%$ ConnectionStrings:barberiaConnectionString3.ProviderName %>" SelectCommand="SELECT * FROM usuario" UpdateCommand="UPDATE usuario SET Password = ?, Nombre1 = ?, Nombre2 = ?, Apellido1 = ?, Apellido2 = ?, Rol = ?, Edad = ? WHERE Correo = ?">          
-            <DeleteParameters>
-                <asp:Parameter Name="original_Correo" Type="String" />
-                <asp:Parameter Name="original_Password" Type="String" />
-                <asp:Parameter Name="original_Nombre1" Type="String" />
-                <asp:Parameter Name="original_Nombre2" Type="String" />
-                <asp:Parameter Name="original_Apellido1" Type="String" />
-                <asp:Parameter Name="original_Apellido2" Type="String" />
-                <asp:Parameter Name="original_Rol" Type="String" />
-                <asp:Parameter Name="original_Edad" Type="Int32" />
-            </DeleteParameters>
-            <InsertParameters>
-                <asp:Parameter Name="Correo" Type="String" />
-                <asp:Parameter Name="Password" Type="String" />
-                <asp:Parameter Name="Nombre1" Type="String" />
-                <asp:Parameter Name="Nombre2" Type="String" />
-                <asp:Parameter Name="Apellido1" Type="String" />
-                <asp:Parameter Name="Apellido2" Type="String" />
-                <asp:Parameter Name="Rol" Type="String" />
-                <asp:Parameter Name="Edad" Type="Int32" />
-            </InsertParameters>
-            <UpdateParameters>
-                <asp:Parameter Name="Password" Type="String" />
-                <asp:Parameter Name="Nombre1" Type="String" />
-                <asp:Parameter Name="Nombre2" Type="String" />
-                <asp:Parameter Name="Apellido1" Type="String" />
-                <asp:Parameter Name="Apellido2" Type="String" />
-                <asp:Parameter Name="Rol" Type="String" />
-                <asp:Parameter Name="Edad" Type="Int32" />
-                <asp:Parameter Name="original_Correo" Type="String" />
-                <asp:Parameter Name="original_Password" Type="String" />
-                <asp:Parameter Name="original_Nombre1" Type="String" />
-                <asp:Parameter Name="original_Nombre2" Type="String" />
-                <asp:Parameter Name="original_Apellido1" Type="String" />
-                <asp:Parameter Name="original_Apellido2" Type="String" />
-                <asp:Parameter Name="original_Rol" Type="String" />
-                <asp:Parameter Name="original_Edad" Type="Int32" />
-            </UpdateParameters>
-        </asp:SqlDataSource>
+    <p class="text-center">
+
+            <div class="text-center">
+
+            Correo electronico:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtcorreo" runat="server" Width="279px" class="form-control"></asp:TextBox>
+            <br />
+            <br />
+            Nombres:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtnombre1" runat="server" Width="158px" class="form-control"></asp:TextBox>
+&nbsp;-
+            <asp:TextBox ID="txtnombre2" runat="server" Width="171px" class="form-control"></asp:TextBox>
+            <br />
+            <br />
+            Apellidos:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtapellido1" runat="server" Width="154px" class="form-control"></asp:TextBox>
+&nbsp;-
+            <asp:TextBox ID="txtapellido2" runat="server" Width="173px" class="form-control"></asp:TextBox>
+            <br />
+            <br />
+            Rol:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtrol" runat="server" Width="206px" class="form-control"></asp:TextBox>
+            <br />
+            <br />
+            Edad:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtedad" runat="server" class="form-control"></asp:TextBox>
+            <br />
+            <br />
+            <asp:Button ID="btnguardar" runat="server" Text="Guardar" class="btn btn-light btn-radius btn-brd grd1 btn-block subt"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="btnbuscar" runat="server" Text="Buscar" class="btn btn-light btn-radius btn-brd grd1 btn-block subt"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="btnmodificar" runat="server" Text="Modificar" class="btn btn-light btn-radius btn-brd grd1 btn-block subt"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="btneliminar" runat="server" Text="Eliminar" class="btn btn-light btn-radius btn-brd grd1 btn-block subt"/>
+            <br />
+            <br />
+            <br />
+            </div>
+            <asp:GridView ID="GridView1" runat="server" class="table-active table table-dark">
+    </asp:GridView>
+    
     </p>
 </asp:Content>
