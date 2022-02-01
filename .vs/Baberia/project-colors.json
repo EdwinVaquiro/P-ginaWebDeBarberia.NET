@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c328a79f-71cb-4f4e-b502-b5b58dc0470b": {
+      "ProjectGuid": "c328a79f-71cb-4f4e-b502-b5b58dc0470b",
+      "DisplayName": "Baberia",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

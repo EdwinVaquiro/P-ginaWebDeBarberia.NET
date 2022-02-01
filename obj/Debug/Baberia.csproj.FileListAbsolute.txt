@@ -1,0 +1,107 @@
+S:\Documentos\Programacion Web\Baberia\obj\Debug\Baberia.csproj.AssemblyReference.cache
+S:\Documentos\Programacion Web\Baberia\obj\Debug\Baberia.csproj.CoreCompileInputs.cache
+S:\Documentos\Programacion Web\Baberia\bin\Baberia.dll.config
+S:\Documentos\Programacion Web\Baberia\bin\Baberia.dll
+S:\Documentos\Programacion Web\Baberia\bin\Baberia.pdb
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csc.exe
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csc.exe.config
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csc.rsp
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csi.exe
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csi.exe.config
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\csi.rsp
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Buffers.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Collections.Immutable.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Memory.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Numerics.Vectors.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Reflection.Metadata.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\vbc.exe
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\vbc.exe.config
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\vbc.rsp
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\VBCSCompiler.exe
+S:\Documentos\Programacion Web\Baberia\bin\roslyn\VBCSCompiler.exe.config
+S:\Documentos\Programacion Web\Baberia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Documentos\Programacion Web\Baberia\bin\MySql.Data.dll
+S:\Documentos\Programacion Web\Baberia\bin\Google.Protobuf.dll
+S:\Documentos\Programacion Web\Baberia\bin\Zstandard.Net.dll
+S:\Documentos\Programacion Web\Baberia\bin\K4os.Compression.LZ4.Streams.dll
+S:\Documentos\Programacion Web\Baberia\bin\BouncyCastle.Crypto.dll
+S:\Documentos\Programacion Web\Baberia\bin\Ubiety.Dns.Core.dll
+S:\Documentos\Programacion Web\Baberia\bin\Renci.SshNet.dll
+S:\Documentos\Programacion Web\Baberia\bin\System.Memory.dll
+S:\Documentos\Programacion Web\Baberia\bin\System.Buffers.dll
+S:\Documentos\Programacion Web\Baberia\bin\K4os.Compression.LZ4.dll
+S:\Documentos\Programacion Web\Baberia\bin\K4os.Hash.xxHash.dll
+S:\Documentos\Programacion Web\Baberia\bin\System.Numerics.Vectors.dll
+S:\Documentos\Programacion Web\Baberia\bin\System.Runtime.CompilerServices.Unsafe.dll
+S:\Documentos\Programacion Web\Baberia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Documentos\Programacion Web\Baberia\bin\MySql.Data.xml
+S:\Documentos\Programacion Web\Baberia\obj\Debug\Baberia.csproj.CopyComplete
+S:\Documentos\Programacion Web\Baberia\obj\Debug\Baberia.dll
+S:\Documentos\Programacion Web\Baberia\obj\Debug\Baberia.pdb
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Baberia.dll.config
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Baberia.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Baberia.pdb
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csc.exe
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csc.exe.config
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csc.rsp
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csi.exe
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csi.exe.config
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\csi.rsp
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Buffers.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Collections.Immutable.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Memory.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Numerics.Vectors.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Reflection.Metadata.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\vbc.exe
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\vbc.exe.config
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\vbc.rsp
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\VBCSCompiler.exe
+D:\edwin\Downloads\Baberia-1\Baberia\bin\roslyn\VBCSCompiler.exe.config
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Google.Protobuf.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Zstandard.Net.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\K4os.Compression.LZ4.Streams.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\BouncyCastle.Crypto.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Ubiety.Dns.Core.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Renci.SshNet.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\System.Memory.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\System.Buffers.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\K4os.Compression.LZ4.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\K4os.Hash.xxHash.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\System.Numerics.Vectors.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\edwin\Downloads\Baberia-1\Baberia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\edwin\Downloads\Baberia-1\Baberia\bin\MySql.Data.xml
+D:\edwin\Downloads\Baberia-1\Baberia\obj\Debug\Baberia.csproj.AssemblyReference.cache
+D:\edwin\Downloads\Baberia-1\Baberia\obj\Debug\Baberia.csproj.CoreCompileInputs.cache
+D:\edwin\Downloads\Baberia-1\Baberia\obj\Debug\Baberia.csproj.CopyComplete
+D:\edwin\Downloads\Baberia-1\Baberia\obj\Debug\Baberia.dll
+D:\edwin\Downloads\Baberia-1\Baberia\obj\Debug\Baberia.pdb
